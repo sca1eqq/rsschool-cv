@@ -40,3 +40,10 @@ function multiply(a, b){
 
 ## Work experience
 *None.*
+
+## Education
+* Graduated from gymnasium 15 of the city of Minsk in 2019
+* Currently a student of BSUIR, Faculty of Computer-Aided Design, major in Engineering-Psychological Maintenance of Information Technologies; Qualification – Computer Engineer (graduating in 2024)
+
+## English
+*About B1.*
