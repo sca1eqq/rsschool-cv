@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sca1eqq.github.io/rsschool-cv/cv
